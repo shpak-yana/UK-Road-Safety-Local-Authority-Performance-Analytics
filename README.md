@@ -11,7 +11,6 @@ The project analyzes road traffic accident data for the UK over the past five ye
 ## Data
 
 The data is loaded from the official [Road Safety Open Data page](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data).
-All downloaded data is also located in data\raw\STATS19 Collisions.
 
 | Data type | File name |
 |-----------|-----------|
