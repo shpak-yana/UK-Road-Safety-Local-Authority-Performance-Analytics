@@ -148,7 +148,7 @@ The included Power BI report (UK Road Analysis.pdf / [UK Road Analysis.pbix](htt
 - Demographics (age band, sex, vehicle type)
 - Key findings summary page
 
-## How to Open the Dashboard
+### How to Open the Dashboard
 
 The `UK Road Analysis.pbix` file is available in **[Releases](https://github.com/shpak-yana/UK-Road-Safety-Local-Authority-Performance-Analytics/releases/tag/v1.0)** (67.4 MB).
 
