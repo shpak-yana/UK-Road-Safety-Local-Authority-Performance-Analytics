@@ -1,9 +1,5 @@
 # UK Road Safety — Local Authority Performance Analytics
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![DuckDB](https://img.shields.io/badge/DuckDB-analytics-yellow.svg)](https://duckdb.org/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-ready-orange.svg)](https://powerbi.microsoft.com/)
-
 End-to-end analysis of personal injury road collisions in **England** (2021–2025) using the official **STATS19** open data from the Department for Transport (DfT), enriched with the **English Indices of Deprivation 2025 (IMD 2025)** from the Ministry of Housing, Communities & Local Government (MHCLG).
 
 The project focuses on **Local Authority performance**, identification of high-risk areas, vulnerable road users (VRUs), and the relationship between road casualties and socio-economic deprivation. Outputs include a clean analytical database (DuckDB), Parquet files optimised for Power BI, and a comprehensive dashboard with key findings.
@@ -151,6 +147,14 @@ The included Power BI report (UK Road Analysis.pdf / [UK Road Analysis.pbix](htt
 - Geographic map (urban/rural, Local Authority ranking)
 - Demographics (age band, sex, vehicle type)
 - Key findings summary page
+
+## How to Open the Dashboard
+
+The `UK Road Analysis.pbix` file is available in **[Releases](https://github.com/shpak-yana/UK-Road-Safety-Local-Authority-Performance-Analytics/releases/tag/v1.0)** (67.4 MB).
+
+1. Download `UK.Road.Analysis.pbix` from the Releases page.
+2. Open it in **Power BI Desktop**.
+3. All data is embedded — no external connections required.
 
 ---
 
