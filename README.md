@@ -62,16 +62,16 @@ Full interactive dashboard and static report available in the repository (`UK Ro
 
 ## Repository Structure
 
-├── data/ \
-│   ├── processed/            # Cleaned tables (CSV / Parquet)\
-│   └── powerbi/              # Optimised Parquet files for Power BI \
-├── sql/                      # DuckDB schema, views and analytical queries \
-├── STATS19_data_analysis.ipynb      # Loading, validation, cleaning \
-├── visual data analysis.ipynb       # Missingness EDA \
-├── db_load_data_and_analysis.ipynb  # DuckDB load + star schema\ 
-├── UK Road Analysis.pdf      # Power BI dashboard export (key findings) \
-├── dft-road-casualty-statistics-road-safety-open-dataset-data-guide-2025.xlsx # Official codebook for STATS19 categorical variables\
-└── README.md
+|-- data/ \
+|   |-- processed/            # Cleaned tables (CSV / Parquet)\
+|   |-- powerbi/              # Optimised Parquet files for Power BI \
+|-- sql/                      # DuckDB schema, views and analytical queries \
+|-- STATS19_data_analysis.ipynb      # Loading, validation, cleaning \
+|-- visual data analysis.ipynb       # Missingness EDA \
+|-- db_load_data_and_analysis.ipynb  # DuckDB load + star schema \ 
+|-- UK Road Analysis.pdf      # Power BI dashboard export (key findings) \
+|-- dft-road-casualty-statistics-road-safety-open-dataset-data-guide-2025.xlsx # Official codebook for STATS19 categorical variables\
+|-- README.md
 
 
 ---
